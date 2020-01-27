@@ -4,7 +4,7 @@ Crear un repositori
 ## Activitats
 * [1_LlocWeb](https://kerlyenriquez.github.io/1llocweb/)
 * [2_CMYK]
-*[14_](https://github.com/kerlyenriquez/14_/settings)
+*.[14_](https://github.com/kerlyenriquez/14_/settings)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
