@@ -2,7 +2,7 @@
 Crear un repositori
 
 ## Activitats
-* [1_LlocWeb](https://kerlyenriquez.github.io/1llocweb/)
+* [1_LlocWeb](https://github.com/kerlyenriquez/01_lloc-web)
 * [2_CMYK]
 *.[14_](https://github.com/kerlyenriquez/14_/settings)
 
