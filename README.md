@@ -2,10 +2,10 @@
 Crear un repositori
 
 ## Activitats
-* [1_LlocWeb](https://github.com/kerlyenriquez/01_lloc-web)
-* [2_CMYK](https://github.com/kerlyenriquez/02_CMYK)
-* [14_](https://github.com/kerlyenriquez/14_/settings)
-* [15_](https://github.com/kerlyenriquez/15_menu)
+* [1_LlocWeb](https://kerlyenriquez.github.io/01_lloc-web/)
+* [2_CMYK](https://kerlyenriquez.github.io/02_CMYK/)
+* [14_](https://kerlyenriquez.github.io/14_/)
+* [15_](https://kerlyenriquez.github.io/15_menu/)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
