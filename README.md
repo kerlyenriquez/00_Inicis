@@ -17,7 +17,7 @@ Crear un repositori
 * [13_](https://kerlyenriquez.github.io/13_/)
 * [14_](https://kerlyenriquez.github.io/14_/)
 * [15_](https://kerlyenriquez.github.io/15_menu/)
-* [PORFOLIO*](3 (https://kerlyenriquez.github.io/porfolio/)
+* [PORFOLIO*](https://kerlyenriquez.github.io/porfolio/)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
