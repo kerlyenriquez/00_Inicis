@@ -4,8 +4,20 @@ Crear un repositori
 ## Activitats
 * [1_LlocWeb](https://kerlyenriquez.github.io/01_lloc-web/)
 * [2_CMYK](https://kerlyenriquez.github.io/02_CMYK/)
+* [3_BOOM](https://kerlyenriquez.github.io/03_boom/)
+* [4_maquetacion](https://kerlyenriquez.github.io/04_maquetacion/)
+* [5_](https://kerlyenriquez.github.io/05_/)
+* [6_tarjetas](https://kerlyenriquez.github.io/06_tarjetas/)
+* [07_ladingpage](https://kerlyenriquez.github.io/07_ladingpage/)
+* [8_](https://kerlyenriquez.github.io/08_/)
+* [9_]()
+* [10_](https://kerlyenriquez.github.io/10_minimalissimo/)
+* [11_](https://kerlyenriquez.github.io/11_teamin/)
+* [12_]()
+* [13_]()
 * [14_](https://kerlyenriquez.github.io/14_/)
 * [15_](https://kerlyenriquez.github.io/15_menu/)
+*PORFOLIO* :3 (https://kerlyenriquez.github.io/porfolio/)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
