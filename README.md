@@ -12,12 +12,12 @@ Crear un repositori
 * [8_](https://kerlyenriquez.github.io/08_/)
 * [9_](https://kerlyenriquez.github.io/09_/)
 * [10_](https://kerlyenriquez.github.io/10_/)
-* [11_]()
-* [12_]()
-* [13_]()
+* [11_](https://kerlyenriquez.github.io/11_/)
+* [12_](https://kerlyenriquez.github.io/12_/)
+* [13_](https://kerlyenriquez.github.io/13_/)
 * [14_](https://kerlyenriquez.github.io/14_/)
 * [15_](https://kerlyenriquez.github.io/15_menu/)
-* [PORFOLIO]()
+* [PORFOLIO](https://kerlyenriquez.github.io/porfolio/)
 * [Examen](https://kerlyenriquez.github.io/examen2/)
 
 ##  Págines classe
