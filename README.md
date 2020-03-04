@@ -10,15 +10,15 @@ Crear un repositori
 * [6_tarjetas](https://kerlyenriquez.github.io/06_/)
 * [07_ladingpage](https://kerlyenriquez.github.io/07_/)
 * [8_](https://kerlyenriquez.github.io/08_/)
-* [9_]()
-* [10_]()
+* [9_](https://kerlyenriquez.github.io/09_/)
+* [10_](https://kerlyenriquez.github.io/10_/)
 * [11_]()
 * [12_]()
 * [13_]()
 * [14_](https://kerlyenriquez.github.io/14_/)
 * [15_](https://kerlyenriquez.github.io/15_menu/)
 * [PORFOLIO]()
-* [Examen]()
+* [Examen](https://kerlyenriquez.github.io/examen2/)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
