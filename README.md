@@ -9,12 +9,12 @@ Crear un repositori
 * [5_TARJETAS](https://kerlyenriquez.github.io/05_TARJETAS/)
 * [6_LAUDINGPAGE](https://kerlyenriquez.github.io/06_LAUDINGPAGE/)
 * [07_GRIDMOMA]()
-* [8_GRIDAREA]()
+* [8_GRIDAREA](https://kerlyenriquez.github.io/08_GRID-AREA/)
 * [9_AESOP]()
 * [10_MENUS](https://kerlyenriquez.github.io/10_MENUS/)
 * [11_JSTRABAJOENGRUPO](https://kerlyenriquez.github.io/11_JS_TREBALL_EN_PARELLES/)
 * [12_PORFOLIO]()
-* [Examen]()
+* [Examen TOLV](https://kerlyenriquez.github.io/13_EXAMEN-TOLV/)
 * [Examen2]()
 
 ##  Págines classe
