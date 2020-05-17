@@ -15,7 +15,7 @@ Crear un repositori
 * [11_JSTRABAJOENGRUPO](https://kerlyenriquez.github.io/11_JS_TREBALL_EN_PARELLES/)
 * [12_PORFOLIO](https://kerlyenriquez.github.io/12_PORFOLI/)
 * [Examen TOLV](https://kerlyenriquez.github.io/13_EXAMEN-TOLV/)
-* [Examen2]()
+* [Examen2](https://kerlyenriquez.github.io/14_EXAMEN_2/)
 
 ##  Págines classe
 * [Página classe 2GP](https://arquesm.github.io/2GP/)
