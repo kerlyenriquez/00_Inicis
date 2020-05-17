@@ -13,7 +13,7 @@ Crear un repositori
 * [9_AESOP](https://kerlyenriquez.github.io/09_AESOP/)
 * [10_MENUS](https://kerlyenriquez.github.io/10_MENUS/)
 * [11_JSTRABAJOENGRUPO](https://kerlyenriquez.github.io/11_JS_TREBALL_EN_PARELLES/)
-* [12_PORFOLIO]()
+* [12_PORFOLIO](https://kerlyenriquez.github.io/12_PORFOLI/)
 * [Examen TOLV](https://kerlyenriquez.github.io/13_EXAMEN-TOLV/)
 * [Examen2]()
 
